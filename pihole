@@ -320,6 +320,14 @@
 0.0.0.0 fe.video-ak.cdn.spotify.com
 0.0.0.0 ff.video-ak.cdn.spotify.com
 
+######################################
+# BLOCK THE FOLLOWING FASTLY SERVERS #
+######################################
+#127.0.0.1 beta.spotify.map.fastly.net
+#127.0.0.1 beta.spotify.map.fastlylb.net
+127.0.0.1 prod.spotify-heads.map.fastlylb.net
+#127.0.0.1 prod.spotify.map.fastly.net
+#127.0.0.1 prod.spotify.map.fastlylb.net
 
 # — Spotify Ads Block End
 0.0.0.0 adclick.g.doublecklick.net
