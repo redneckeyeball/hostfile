@@ -1,16 +1,16 @@
-ade.googlesyndication.com
-ade.googlesyndication.com
-ar.prd.content.itv.com
-bid.g.doubleclick.net
-c.dpgmedia.net
-c4ads.2cnt.net
-dcs-png.apis.anvato.net
-dpgm-medialaancdn.edgesuite.net
-googleadservices.com
-itvdotcom.2cnt.net
-pubads.g.doubleclick.net
-recommendations.prd.user.itv.com
-unified.adsafeprotected.com
-video.adsafeprotected.com
-w3.cdn.anvato.net
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 ar.prd.content.itv.com
+0.0.0.0 bid.g.doubleclick.net
+8.8.8.8 c.dpgmedia.net
+0.0.0.0 c4ads.2cnt.net
+8.8.8.8 dcs-png.apis.anvato.net
+8.8.8.8 dpgm-medialaancdn.edgesuite.net
+8.8.8.8 googleadservices.com
+0.0.0.0 itvdotcom.2cnt.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 recommendations.prd.user.itv.com
+0.0.0.0 unified.adsafeprotected.com
+8.8.8.8 video.adsafeprotected.com
+8.8.8.8 w3.cdn.anvato.net
 
